@@ -19,8 +19,11 @@ With just one command, you can change the nickname of every user in the server �
 
 # 💬 Example Commands
 Command	Description
-!renameall <newname>	Changes every member’s nickname to the given name
-!resetnames	Removes all nicknames (resets to original usernames)
+
+!add_prefix [prefix]	- Changes every member’s nickname to the given name
+
+!remove_all_nicknames -	Removes all nicknames (resets to original usernames)
+
 # 🧠 Use Cases
 
 Rebranding your community or event
