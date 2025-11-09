@@ -1,0 +1,2 @@
+!add_prefix [prefix] - To add prefix 
+!remove_all_nicknames - to remove Nicknames
